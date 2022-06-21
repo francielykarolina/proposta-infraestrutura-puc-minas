@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropostaInfraestrutura", "PropostaInfraestrutura.csproj", "{EA485F61-10AA-4C19-9C34-D08C8BFB7C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA485F61-10AA-4C19-9C34-D08C8BFB7C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA485F61-10AA-4C19-9C34-D08C8BFB7C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA485F61-10AA-4C19-9C34-D08C8BFB7C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA485F61-10AA-4C19-9C34-D08C8BFB7C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DF09E10-231C-4845-A17C-B17FF49214E0}
+	EndGlobalSection
+EndGlobal
